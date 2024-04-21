@@ -37,5 +37,5 @@ To run the project and perform vehicle segmentation:
 * Run the Python script containing the code for data preprocessing, segmentation, and visualization.
 * Explore the segmented groups and analyze the characteristics of each segment.
 
-##Contributors
+## Contributors
 Utkarsh Singh
